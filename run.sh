@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-export GEMINI_API_KEY="AIzaSyDDtdAmjQzWpSeEFZqx4se-hEzlxso34z4"
+export GEMINI_API_KEY="YOUT_KEY"
 
 
 QUESTION="$1"
